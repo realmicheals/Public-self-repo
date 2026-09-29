@@ -1,3 +1,2 @@
-# Public-self-repo
-First repo
-testing
+I am making Progress
+Public repo testing
